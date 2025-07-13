@@ -1,3 +1,5 @@
+''' ------- PASSWORD GENERATOR APP ------- '''
+
 import random
 import string
 
